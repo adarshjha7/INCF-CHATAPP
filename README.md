@@ -3,6 +3,8 @@
 Install all dependencies,then you're good to chat,
 
 
-**npm install socket.io
-npm run dev**
+**npm install socket.io**
+
+
+**npm run dev**
 
